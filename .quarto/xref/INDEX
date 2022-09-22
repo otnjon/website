@@ -1,0 +1,35 @@
+{
+  "about.qmd": {
+    "about.html": "0518a876"
+  },
+  "index.qmd": {
+    "index.html": "ca581c00"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "2c80c010"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "fd9519b7"
+  },
+  "index.ipynb": {
+    "index.html": "969fd1bd"
+  },
+  "Untitled.ipynb": {
+    "Untitled.html": "c6a58dd2"
+  },
+  "about.ipynb": {
+    "about.html": "db285916"
+  },
+  "posts/physical-art/works-in-canvas.ipynb": {
+    "works-in-canvas.html": "b1ae8199"
+  },
+  "posts/welcome/index.ipynb": {
+    "index.html": "d4242adc"
+  },
+  "blog.ipynb": {
+    "blog.html": "ba1c0cab"
+  },
+  "welcome.ipynb": {
+    "welcome.html": "ca910fe2"
+  }
+}

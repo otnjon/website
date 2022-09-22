@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "My name is Jonathan Freed I live in West Bloomfield, Michigan with my Father aned two cats"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/physical-art/works-in-canvas.html",
+    "href": "posts/physical-art/works-in-canvas.html",
+    "title": "Works in Canvas",
+    "section": "",
+    "text": "![](~/images/yellow_small.jpg)"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Works in Canvas\n\n\n\n\n\n\n\nart\n\n\nfolding\n\n\ncanvas\n\n\n\n\n\n\n\n\n\n\n\nSep 21, 2022\n\n\nJonathan Freed\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 21, 2022\n\n\nJonathan Freed\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "welcome.html",
+    "href": "welcome.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  }
+]

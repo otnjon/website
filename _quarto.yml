@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Tobitus: Art | Machine Learning | Philosophy"
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com/
+  sidebar:
+    contents:
+      - text: "Home"
+        file: index.ipynb
+      - blog.ipynb
+      - about.ipynb
+format:
+  html:
+    theme: minty
+    css: styles.css
+
+
+
