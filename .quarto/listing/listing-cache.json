@@ -1,11 +1,5 @@
 {
   "listingMap": {
-    "index.qmd": [
-      "posts"
-    ],
-    "index.ipynb": [
-      "posts"
-    ],
     "blog.ipynb": [
       "posts"
     ]
